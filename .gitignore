@@ -25,3 +25,5 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+tmp/
+cell_2000_pc.weights
